@@ -1,0 +1,7 @@
+[Sound Theme]
+Name=grubs-sparkly-tones
+Comment="Haiku sound theme contest winner"
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
